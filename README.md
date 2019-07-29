@@ -52,3 +52,7 @@
  - [Malcolm Jones](https://github.com/bossjones)
 
 ---
+
+### How to write your own zsh plugin for oh-my-zsh
+
+[Adding a new plugin](https://github.com/robbyrussell/oh-my-zsh/wiki/Customization#adding-a-new-plugin)
