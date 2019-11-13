@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Aliases for git, the command line interface for Kubernetes
 #
 # Author: https://github.com/bossjones
@@ -22,7 +23,7 @@ alias gd='git diff | /usr/local/bin/mvim -f'
 alias gdel='git branch -D'
 alias get='git'
 alias gexport='git archive --format zip --output'
-alias gg='git log --graph --pretty=format:'\''%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'\'' --abbrev-commit --date=relative'
+# alias gg='git log --graph --pretty=format:'\''%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'\'' --abbrev-commit --date=relative'
 alias gl='git pull'
 alias gll='git log --graph --pretty=oneline --abbrev-commit'
 alias gm='git merge'
