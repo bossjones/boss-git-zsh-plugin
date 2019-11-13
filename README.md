@@ -1,4 +1,4 @@
-## APACHE2 MACPORTS PLUGIN
+## GIT ZSH PLUGIN
 
 
 ---
@@ -23,11 +23,9 @@
 | gco   | git checkout   |
 | gcount    |   git shortlog -sn     |
 | gcp    |   git cherry-pick     |
-| gd    |   git diff \| /usr/local/bin/mvim -f     |
 | gdel    |   git branch -D     |
 | get    |   git     |
 | gexport    |   git archive --format zip --output     |
-| gg    |   git log --graph --pretty=format:'\''%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'\'' --abbrev-commit --date=relative     |
 | gl    |   git pull     |
 | gll    |   git log --graph --pretty=oneline --abbrev-commit     |
 | gm    |   git merge     |
