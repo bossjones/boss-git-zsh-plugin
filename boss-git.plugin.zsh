@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 # Aliases for git
 #
 # Author: https://github.com/bossjones
@@ -19,11 +18,9 @@ alias gcm='git commit -v -m'
 alias gco='git checkout'
 alias gcount='git shortlog -sn'
 alias gcp='git cherry-pick'
-# alias gd='git diff | /usr/local/bin/mvim -f'
 alias gdel='git branch -D'
 alias get='git'
 alias gexport='git archive --format zip --output'
-# alias gg='git log --graph --pretty=format:'\''%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'\'' --abbrev-commit --date=relative'
 alias gl='git pull'
 alias gll='git log --graph --pretty=oneline --abbrev-commit'
 alias gm='git merge'
