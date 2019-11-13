@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Aliases for git, the command line interface for Kubernetes
+# Aliases for git
 #
 # Author: https://github.com/bossjones
 alias gcl='git clone'
@@ -19,7 +19,7 @@ alias gcm='git commit -v -m'
 alias gco='git checkout'
 alias gcount='git shortlog -sn'
 alias gcp='git cherry-pick'
-alias gd='git diff | /usr/local/bin/mvim -f'
+# alias gd='git diff | /usr/local/bin/mvim -f'
 alias gdel='git branch -D'
 alias get='git'
 alias gexport='git archive --format zip --output'
