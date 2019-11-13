@@ -1,3 +1,4 @@
+#!/usr/bin/env zsh
 # Aliases for git
 #
 # Author: https://github.com/bossjones
